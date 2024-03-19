@@ -5,3 +5,6 @@ JORGE GONZALEZ
 The file is under src/main/java/org.example/Main
 
 To run the file, simply open up the folder in IntelliJ and press run.
+
+The link for the youtube video:
+  https://youtu.be/rZ-squzICkQ 
